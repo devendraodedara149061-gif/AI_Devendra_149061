@@ -1,3 +1,6 @@
+#NAME : DEVENDRA ODEDARA
+#ENO: 92600584011
+
 def display(board):
     print()
     print(board[0],"|",board[1],"|",board[2])
